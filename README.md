@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilso97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
 </div>
   
-  ### Contatos:
+### Contatos:
 <div>
 <a href="https://instagram.com/nilso_jr97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:nilsojunior90@gmail.comi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 <!-- Snake Grid -->
 ![Snake animation](https://github.com/Nilso97/Nilso97/blob/output/github-contribution-grid-snake.svg)
 
+<!-- GIF -->
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/96146165/158188525-d20d6f75-8f0b-4cb5-bc3b-8f4be32e93d8.gif)
