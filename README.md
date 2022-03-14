@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilso97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+### Linguagens
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilso97=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Snake Grid -->
 ![Snake animation](https://github.com/Nilso97/Nilso97/blob/output/github-contribution-grid-snake.svg)
 
