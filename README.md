@@ -1,7 +1,6 @@
 <!-- GIF -->
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/96146165/158188525-d20d6f75-8f0b-4cb5-bc3b-8f4be32e93d8.gif)
 
-
 ### Hello World! 🙋‍♂️👋
 - 👦 Me chamo Nilso Junior ...
 - 🥳 Tenho 24 anos de idade ...
