@@ -1,7 +1,7 @@
 <!-- GIF -->
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/96146165/158188525-d20d6f75-8f0b-4cb5-bc3b-8f4be32e93d8.gif)
 
-### Hello World! ![web-development (2)](https://user-images.githubusercontent.com/96146165/161612424-ed26c083-72b1-4de8-9430-136c9706cf09.png)
+## Hello World! ![web-development (2)](https://user-images.githubusercontent.com/96146165/161612424-ed26c083-72b1-4de8-9430-136c9706cf09.png)
 
 - ![homem-jovem](https://user-images.githubusercontent.com/96146165/161611849-8a551b3f-33be-4194-b587-0a82b925585a.png)
  Me chamo Nilso Junior ...
@@ -13,13 +13,16 @@
  Minha área de estudo favorita é o Desenvolvimento Web ...
 - ![js (2)](https://user-images.githubusercontent.com/96146165/161611971-f8ba400d-c538-40cf-b22c-f1ed4fa24c8e.png)
  Minha Linguagem de Programação favorita é o Javascript ...
+ 
+ ### Contatos ![contato](https://user-images.githubusercontent.com/96146165/161617884-b9a81cf2-ed81-4df6-a4cc-e243ba4e1fd6.png)
 <div>
 <a href="https://instagram.com/nilso_jr97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:nilsojunior90@gmail.comi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nilso-junior-886313210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Ferramentas e Tecnologias:
+### Ferramentas e Tecnologias ![ferramentas](https://user-images.githubusercontent.com/96146165/161613654-21cfc1f3-9635-42d7-955d-709e6ca3fd17.png) ![tecnologia (3)](https://user-images.githubusercontent.com/96146165/161613904-b39a6f2c-e214-4967-93df-76d93e4ca819.png)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="80" height="80" />
 
 <!-- Estátisticas -->
