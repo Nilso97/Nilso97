@@ -28,8 +28,8 @@
 <!-- Estátisticas -->
 <div>
 <a href="https://github.com/Nilso97">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilso97&layout=compact&langs_count=7&theme=tokyonight"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilso97&show_icons=true&theme=tokyonight"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilso97&layout=compact&langs_count=7&theme=react"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilso97&show_icons=true&theme=react"/> 
 </div>
 
 <!-- Snake Grid --> 
