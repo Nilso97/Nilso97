@@ -24,7 +24,10 @@
 ### Ferramentas e Tecnologias ![ferramentas](https://user-images.githubusercontent.com/96146165/161613654-21cfc1f3-9635-42d7-955d-709e6ca3fd17.png) ![tecnologia (3)](https://user-images.githubusercontent.com/96146165/161613904-b39a6f2c-e214-4967-93df-76d93e4ca819.png)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100" /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="90" height="90" />
-          
+
+### Estudando atualmente ![icons8-studying-32](https://user-images.githubusercontent.com/96146165/171849005-9312b858-b17f-45d7-835b-9117d57002d8.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="90" height="90" />
+
 <!-- Estátisticas -->
 <div>
 <a href="https://github.com/Nilso97">
