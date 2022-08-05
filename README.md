@@ -9,7 +9,7 @@
 - ![-18](https://user-images.githubusercontent.com/96146165/161611870-9ad6bf32-66a0-41ab-8413-07ccdc4cd3c7.png)
   Tenho 24 anos de idade;
 - ![avatar-de-estudante-de-graduacao](https://user-images.githubusercontent.com/96146165/161611920-16bf0892-278c-4626-9d46-c1c03314a82f.png)
-  Curso Graduação em Análise e Desenvolvimento de Sistemas;
+  Graduado em Análise e Desenvolvimento de Sistemas;
 - ![local-na-rede-internet](https://user-images.githubusercontent.com/96146165/161611944-114009a6-0066-4ad2-acff-36806675b5c1.png)
   Minha área de estudo favorita é o Desenvolvimento Web;
 - ![js (2)](https://user-images.githubusercontent.com/96146165/161611971-f8ba400d-c538-40cf-b22c-f1ed4fa24c8e.png)
