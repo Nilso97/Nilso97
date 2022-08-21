@@ -8,7 +8,7 @@
 ## Contacts ![contato](https://user-images.githubusercontent.com/96146165/161617884-b9a81cf2-ed81-4df6-a4cc-e243ba4e1fd6.png)
 
 <div>
-<a href="https://www.linkedin.com/in/nilso-junior-886313210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nilsojr-webdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:nilsojunior90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--<a href="https://instagram.com/nilso_jr97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 </div>
