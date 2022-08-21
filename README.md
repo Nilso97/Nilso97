@@ -22,6 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="68" height="68"/>
           
 <!-- Estátisticas -->
+## Statistics ![icons8-statistics-32](https://user-images.githubusercontent.com/96146165/185770193-d04d9b81-f098-46e6-854e-11c6bd93f748.png)
 <div>
 <a href="https://github.com/Nilso97">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilso97&layout=compact&langs_count=7&theme=react"/>
