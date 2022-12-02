@@ -3,7 +3,7 @@
 - Me chamo Nilso Junior ![homem-jovem](https://user-images.githubusercontent.com/96146165/161611849-8a551b3f-33be-4194-b587-0a82b925585a.png)
 - Sou Graduado em Análise e Desenvolvimento de Sistemas ![avatar-de-estudante-de-graduacao](https://user-images.githubusercontent.com/96146165/161611920-16bf0892-278c-4626-9d46-c1c03314a82f.png)
 - Minha área favorita de estudo é o Desenvolvimento Web ![local-na-rede-internet](https://user-images.githubusercontent.com/96146165/161611944-114009a6-0066-4ad2-acff-36806675b5c1.png)
-- Minha linguagem de programação favorita é o Javascript/TypeScript ![js (2)](https://user-images.githubusercontent.com/96146165/161611971-f8ba400d-c538-40cf-b22c-f1ed4fa24c8e.png)
+- Minha linguagem de programação favorita é o Javascript ![js (2)](https://user-images.githubusercontent.com/96146165/161611971-f8ba400d-c538-40cf-b22c-f1ed4fa24c8e.png)
 
 ## Contato ![contato](https://user-images.githubusercontent.com/96146165/161617884-b9a81cf2-ed81-4df6-a4cc-e243ba4e1fd6.png)
 <div>
@@ -18,7 +18,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="54" height="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="54" height="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="54" height="54" />
                    
 ## Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="72" height="72" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="72" height="72" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="74" height="74" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="60" height="60" />
+          
                    
 ## Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="54" height="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="54" height="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="46" height="46" />
