@@ -1,7 +1,7 @@
 # Hello World ![web-development (2)](https://user-images.githubusercontent.com/96146165/161612424-ed26c083-72b1-4de8-9430-136c9706cf09.png)
 
 - Me chamo Nilso Junior ![homem-jovem](https://user-images.githubusercontent.com/96146165/161611849-8a551b3f-33be-4194-b587-0a82b925585a.png)
-- Sou Graduado em Análise e Desenvolvimento de Sistemas ![avatar-de-estudante-de-graduacao](https://user-images.githubusercontent.com/96146165/161611920-16bf0892-278c-4626-9d46-c1c03314a82f.png)
+- Graduado em Análise e Desenvolvimento de Sistemas ![avatar-de-estudante-de-graduacao](https://user-images.githubusercontent.com/96146165/161611920-16bf0892-278c-4626-9d46-c1c03314a82f.png)
 - Minha área favorita de estudo é o Desenvolvimento Web ![local-na-rede-internet](https://user-images.githubusercontent.com/96146165/161611944-114009a6-0066-4ad2-acff-36806675b5c1.png)
 - Minha linguagem de programação favorita é o Javascript ![js (2)](https://user-images.githubusercontent.com/96146165/161611971-f8ba400d-c538-40cf-b22c-f1ed4fa24c8e.png)
 
