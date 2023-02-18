@@ -7,8 +7,10 @@
 
 ## Contato ![contato](https://user-images.githubusercontent.com/96146165/161617884-b9a81cf2-ed81-4df6-a4cc-e243ba4e1fd6.png)
 <div>
-<a href="https://www.linkedin.com/in/nilsojr-webdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:nilsojunior90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nilsojr-webdeveloper/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nilsojunior90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## Tecnologias
@@ -25,13 +27,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
 </div>
+
+<br></br>
           
 <!-- Estátisticas -->
-## Statistics ![icons8-statistics-32](https://user-images.githubusercontent.com/96146165/185770193-d04d9b81-f098-46e6-854e-11c6bd93f748.png)
 <div>
-<a href="https://github.com/Nilso97">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilso97&layout=compact&langs_count=7&theme=react"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nilso97&show_icons=true&theme=react"/> 
+  <a href="https://github.com/Nilso97">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilso97&layout=compact&langs_count=7&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nilso97&show_icons=true&theme=react"/> 
 </div>
 
 <!-- Snake Grid -->
