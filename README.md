@@ -1,4 +1,4 @@
-# Hello World ![web-development (2)](https://user-images.githubusercontent.com/96146165/161612424-ed26c083-72b1-4de8-9430-136c9706cf09.png)
+## Hello World ![web-development (2)](https://user-images.githubusercontent.com/96146165/161612424-ed26c083-72b1-4de8-9430-136c9706cf09.png)
 <strong>`-> My name is Nilso`</strong> ![homem-jovem](https://user-images.githubusercontent.com/96146165/161611849-8a551b3f-33be-4194-b587-0a82b925585a.png)
 <br>
 <strong>`-> Graduated in Systems Analysis and Development`</strong> ![avatar-de-estudante-de-graduacao](https://user-images.githubusercontent.com/96146165/161611920-16bf0892-278c-4626-9d46-c1c03314a82f.png)
@@ -6,7 +6,7 @@
 <strong>`-> My favorite area of study is Web Development`</strong> ![local-na-rede-internet](https://user-images.githubusercontent.com/96146165/161611944-114009a6-0066-4ad2-acff-36806675b5c1.png)
 <!-- - Minha linguagem de programação favorita é o Javascript ![js (2)](https://user-images.githubusercontent.com/96146165/161611971-f8ba400d-c538-40cf-b22c-f1ed4fa24c8e.png)-->
 
-<strong font-size=8>`Technologies`</strong> ![icons8-technologies-flaticons-lineal-color-32](https://user-images.githubusercontent.com/96146165/219963731-2bc9fb3d-207a-4769-ad6f-278abc25eca9.png)
+### Technologies ![icons8-technologies-flaticons-lineal-color-32](https://user-images.githubusercontent.com/96146165/219963731-2bc9fb3d-207a-4769-ad6f-278abc25eca9.png)
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" />
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="52" height="52"/>
 </div>
 
-<strong font-size=10>`Contact`</strong> ![contato](https://user-images.githubusercontent.com/96146165/161617884-b9a81cf2-ed81-4df6-a4cc-e243ba4e1fd6.png)
+### Contact ![contato](https://user-images.githubusercontent.com/96146165/161617884-b9a81cf2-ed81-4df6-a4cc-e243ba4e1fd6.png)
 <div>
   <a href="https://www.linkedin.com/in/nilsojr-webdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
