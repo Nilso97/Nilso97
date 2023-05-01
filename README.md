@@ -1,10 +1,8 @@
 ## Hello World ![web-development (2)](https://user-images.githubusercontent.com/96146165/161612424-ed26c083-72b1-4de8-9430-136c9706cf09.png)
-<strong>-></strong> My name is Nilso ![homem-jovem](https://user-images.githubusercontent.com/96146165/161611849-8a551b3f-33be-4194-b587-0a82b925585a.png)
-<br>
-<strong>-></strong> Graduated in Systems Analysis and Development ![avatar-de-estudante-de-graduacao](https://user-images.githubusercontent.com/96146165/161611920-16bf0892-278c-4626-9d46-c1c03314a82f.png)
-<br>
-<strong>-></strong> My favorite area of study is Web Development ![local-na-rede-internet](https://user-images.githubusercontent.com/96146165/161611944-114009a6-0066-4ad2-acff-36806675b5c1.png)
-<!-- - Minha linguagem de programação favorita é o Javascript ![js (2)](https://user-images.githubusercontent.com/96146165/161611971-f8ba400d-c538-40cf-b22c-f1ed4fa24c8e.png)-->
+* My name is Nilso ![homem-jovem](https://user-images.githubusercontent.com/96146165/161611849-8a551b3f-33be-4194-b587-0a82b925585a.png)
+* Graduated in Systems Analysis and Development ![avatar-de-estudante-de-graduacao](https://user-images.githubusercontent.com/96146165/161611920-16bf0892-278c-4626-9d46-c1c03314a82f.png)
+* My favorite area of study is Web Development ![local-na-rede-internet](https://user-images.githubusercontent.com/96146165/161611944-114009a6-0066-4ad2-acff-36806675b5c1.png)
+* Minha linguagem de programação favorita é o Javascript ![js (2)](https://user-images.githubusercontent.com/96146165/161611971-f8ba400d-c538-40cf-b22c-f1ed4fa24c8e.png)
 
 ### Technologies ![icons8-technologies-flaticons-lineal-color-32](https://user-images.githubusercontent.com/96146165/219963731-2bc9fb3d-207a-4769-ad6f-278abc25eca9.png)
 <div>
